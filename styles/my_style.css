@@ -23,3 +23,9 @@ body{
 img {
 	position: absolute;
 }
+
+a{
+    background-color: #FFAAFF;
+    font-size: 2 em;
+    
+}
